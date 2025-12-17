@@ -1,232 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on</title><link>https://ucrl-iclr26.github.io/</link><description>Recent content in Home on</description><generator>Hugo</generator><language>en</language><atom:link href="https://ucrl-iclr26.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Accepted Papers</title><link>https://ucrl-iclr26.github.io/accepted-papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ucrl-iclr26.github.io/accepted-papers/</guid><description>&lt;h1 id="accepted-papers"&gt;Accepted Papers&lt;/h1&gt;
-&lt;h2 id="orals"&gt;Orals&lt;/h2&gt;
-&lt;p&gt;LATER!&lt;/p&gt;
-&lt;h2 id="posters"&gt;Posters&lt;/h2&gt;
-&lt;p&gt;LATER!&lt;/p&gt;</description></item><item><title>Call for Papers</title><link>https://ucrl-iclr26.github.io/call-for-papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ucrl-iclr26.github.io/call-for-papers/</guid><description>&lt;h1 id="call-for-papers"&gt;Call for Papers&lt;/h1&gt;
-&lt;p&gt;We welcome submissions on the following topics:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Foundations of concept representations and learning in XAI, CRL and NeSy.&lt;/li&gt;
-&lt;li&gt;Supervised and unsupervised techniques for learning concepts from
-observational and interventional data, raw inputs, and pre-trained
-embeddings.&lt;/li&gt;
-&lt;li&gt;Techniques for learning concepts in non-standard settings, e.g., causal
-abstraction.&lt;/li&gt;
-&lt;li&gt;Design and evaluation of concept-based XAI techniques and self-explainable
-concept-based models.&lt;/li&gt;
-&lt;li&gt;Interactive human-machine concept acquisition and alignment.&lt;/li&gt;
-&lt;li&gt;Applications of concept-based AI systems, including but not limited to,
-reasoning, causality, formal verification, interactive learning, and
-explainability.&lt;/li&gt;
-&lt;li&gt;Metrics and evaluation techniques for assessing the quality of learned
-concepts, with a focus on down-stream applications.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Submissions should present novel, unpublished work. Work that previously
-appeared in non-archival venues (such as arXiv or other workshops without
-proceedings) is allowed.&lt;/p&gt;</description></item><item><title>Formatting Instructions</title><link>https://ucrl-iclr26.github.io/formatting-instructions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ucrl-iclr26.github.io/formatting-instructions/</guid><description>&lt;h1 id="formatting-instructions"&gt;Formatting Instructions&lt;/h1&gt;
-&lt;h2 id="style--author-instructions"&gt;Style &amp;amp; Author Instructions&lt;/h2&gt;
-&lt;p&gt;Submissions should be formatted using the &lt;a href="https://www.auai.org/uai2022/formatting/uai2022-template.zip"&gt;UAI latex template and formatting instructions&lt;/a&gt;. Papers must be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.&lt;/p&gt;
-&lt;h2 id="submission-link"&gt;Submission Link&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://openreview.net/group?id=auai.org/UAI/2022/Workshop/CRL"&gt;https://openreview.net/group?id=auai.org/UAI/2022/Workshop/CRL&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="camera-ready-revisions"&gt;Camera-Ready Revisions&lt;/h2&gt;
-&lt;p&gt;Camera-Ready revisions are now enabled in OpenReview. While the workshop has no official proceedings, we strongly encourage you to submit a revised &amp;ldquo;camera-ready&amp;rdquo; version taking reviewers&amp;rsquo; comments and suggestions into account. We suggest uploading a revised version prior to the workshop, and possibly another final version (incorporating additional feedback from the poster session and workshop) by the revision deadline of 12 August, one week after the workshop.&lt;/p&gt;</description></item><item><title>Important Dates</title><link>https://ucrl-iclr26.github.io/dates/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ucrl-iclr26.github.io/dates/</guid><description>&lt;h1 id="important-dates"&gt;Important Dates&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Paper submission deadline:&lt;/strong&gt; &lt;strong&gt;January 30, 2026, 23:59 AoE&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Notification to authors:&lt;/strong&gt; March 1, 2026, 23:59 AoE&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Camera-ready version:&lt;/strong&gt; March 27, 2026, 23:59 AoE&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Invited Speakers</title><link>https://ucrl-iclr26.github.io/invited-speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ucrl-iclr26.github.io/invited-speakers/</guid><description>&lt;h1 id="invited-speakers"&gt;Invited Speakers&lt;/h1&gt;
-&lt;div class="list-of-people"&gt;
- &lt;div class="person"&gt;
- &lt;td&gt;&lt;img src="https://ucrl-iclr26.github.io/bernhard.jpg"&gt;&lt;/td&gt;
- &lt;td&gt;&lt;a href="https://is.mpg.de/~bs"&gt;Bernhard Schölkopf&lt;/a&gt;&lt;/td&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;td&gt;&lt;img src="https://ucrl-iclr26.github.io/alison.jpg"&gt;&lt;/td&gt;
- &lt;td&gt;&lt;a href="http://alisongopnik.com/"&gt;Alison Gopnik&lt;/a&gt;&lt;/td&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;td&gt;&lt;img src="https://ucrl-iclr26.github.io/aapo.jpg"&gt;&lt;/td&gt;
- &lt;td&gt;&lt;a href="https://www.cs.helsinki.fi/u/ahyvarin/"&gt;Aapo Hyvärinen&lt;/a&gt;&lt;/td&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;td&gt;&lt;img src="https://ucrl-iclr26.github.io/caroline.jpg"&gt;&lt;/td&gt;
- &lt;td&gt;&lt;a href="https://www.carolineuhler.com/"&gt;Caroline Uhler&lt;/a&gt;&lt;/td&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;td&gt;&lt;img src="https://ucrl-iclr26.github.io/gemma.jpg"&gt;&lt;/td&gt;
- &lt;td&gt;&lt;a href="https://www.gemma-moran.com/"&gt;Gemma Moran&lt;/a&gt;&lt;/td&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;td&gt;&lt;img src="https://ucrl-iclr26.github.io/sander.jpg"&gt;&lt;/td&gt;
- &lt;td&gt;&lt;a href="https://sanderbeckers.github.io/website/about/"&gt;Sander Beckers&lt;/a&gt;&lt;/td&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;td&gt;&lt;img src="https://ucrl-iclr26.github.io/philip.jpg"&gt;&lt;/td&gt;
- &lt;td&gt;&lt;a href="https://phlippe.github.io/"&gt;Phillip Lippe&lt;/a&gt;&lt;/td&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;td&gt;&lt;img src="https://ucrl-iclr26.github.io/anirudh.jpg"&gt;&lt;/td&gt;
- &lt;td&gt;&lt;a href="https://anirudh9119.github.io/"&gt;Anirudh Goyal&lt;/a&gt;&lt;/td&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>Organisers</title><link>https://ucrl-iclr26.github.io/organisers-reviewers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ucrl-iclr26.github.io/organisers-reviewers/</guid><description>&lt;h1 id="organisers"&gt;Organisers&lt;/h1&gt;
-&lt;div class="list-of-people"&gt;
- &lt;div class="person"&gt;
- &lt;img src="https://ucrl-iclr26.github.io/amit.jpg"&gt;
- &lt;a href="https://research.ibm.com/people/amit-dhurandhar"&gt;Amit Dhurandhar&lt;/a&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;img src="https://ucrl-iclr26.github.io/placeholder.jpg"&gt;
- &lt;a href="https://amirhkarimi.com/"&gt;Amir-Hossein Karimi&lt;/a&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;img src="https://ucrl-iclr26.github.io/placeholder.jpg"&gt;
- &lt;a href="https://saramagliacane.github.io/"&gt;Sara Magliacane&lt;/a&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;img src="https://ucrl-iclr26.github.io/stefano.jpg"&gt;
- &lt;a href="https://stefanoteso.github.io/"&gt;Stefano Teso&lt;/a&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;img src="https://ucrl-iclr26.github.io/placeholder.jpg"&gt;
- &lt;a href="https://tsamoura.github.io/"&gt;Efthymia Tsamoura&lt;/a&gt;
- &lt;/div&gt;
- &lt;div class="person"&gt;
- &lt;img src="https://ucrl-iclr26.github.io/placeholder.jpg"&gt;
- &lt;a href="https://zzeng.me/"&gt;Zhe Zeng&lt;/a&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-&lt;h1 id="reviewers"&gt;Reviewers&lt;/h1&gt;
-&lt;p&gt;Emanuele Marconato, University of Trento&lt;/p&gt;
-&lt;p&gt;Samuele Bortolotti, University of Trento&lt;/p&gt;
-&lt;h2 id="contact"&gt;Contact&lt;/h2&gt;
-&lt;p&gt;For any questions or comments, please contact us at &lt;a href="mailto:ucrl.iclr2026@gmail.com"&gt;ucrl.iclr2026@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;div style="width: 100%; font-size: smaller; text-align: center; margin-top: 18px;"&gt;
- &lt;em&gt;Thanks also to &lt;strong&gt;&lt;a href="https://samuelebortolotti.github.io/"&gt;Samuele Bortolotti&lt;/a&gt;&lt;/strong&gt; for helping us set up the workshop website!&lt;/em&gt;
-&lt;/div&gt;</description></item><item><title>Schedule and Format</title><link>https://ucrl-iclr26.github.io/schedule-format/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ucrl-iclr26.github.io/schedule-format/</guid><description>&lt;h1 id="workshop-schedule"&gt;Workshop Schedule&lt;/h1&gt;
-&lt;div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;"&gt;
- Legend:
- &lt;span class="contributed"&gt;contributed&lt;/span&gt; · 
- &lt;span class="invited"&gt;invited&lt;/span&gt; · 
- &lt;span class="break"&gt;break&lt;/span&gt;
-&lt;/div&gt;
-&lt;table class="schedule"&gt;
- &lt;tr&gt;
- &lt;th style="width:25%"&gt;Time&lt;/th&gt;
- &lt;th&gt;Program&lt;/th&gt;
- &lt;th&gt;Format&lt;/th&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;09:00 - 09:30&lt;/td&gt;
- &lt;td&gt;Introductory remarks&lt;/td&gt;
- &lt;td&gt;In-person&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="invited"&gt;
- &lt;td&gt;09:30 - 10:00&lt;/td&gt;
- &lt;td&gt;Aapo Hyvärinen - "Causal Discovery and Latent-Variable Models"&lt;/td&gt;
- &lt;td&gt;Virtual (live)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="break"&gt;
- &lt;td&gt;10:00 - 10:30&lt;/td&gt;
- &lt;td&gt;Coffee break&lt;/td&gt;
- &lt;td&gt;-&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="contributed"&gt;
- &lt;td&gt;10:30 - 10:45&lt;/td&gt;
- &lt;td&gt;Sebastien Lachapelle - “Partial Disentanglement via Mechanism Sparsity”&lt;/td&gt;
- &lt;td&gt;In-person&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="contributed"&gt;
- &lt;td&gt;10:45 - 11:00&lt;/td&gt;
- &lt;td&gt;Patrik Reizinger - “Multivariable Causal Discovery with General Nonlinear Relationships”&lt;/td&gt;
- &lt;td&gt;In-person&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="invited"&gt;
- &lt;td&gt;11:00 - 11:30&lt;/td&gt;
- &lt;td&gt;Phillip Lippe - "Learning Causal Variables from Temporal Sequences with Interventions"&lt;/td&gt;
- &lt;td&gt;In-person&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="invited"&gt;
- &lt;td&gt;11:30 - 12:00&lt;/td&gt;
- &lt;td&gt;Anirudh Goyal&lt;/td&gt;
- &lt;td&gt;Virtual (live)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="contributed"&gt;
- &lt;td&gt;12:00 - 13:00&lt;/td&gt;
- &lt;td&gt;Poster session 1&lt;/td&gt;
- &lt;td&gt;In-person &amp;amp &lt;a href="https://gather.town/app/fdnUf3ZhiXnz0Eub/UAIsland2022"&gt;Gather Town&lt;/a&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="break"&gt;
- &lt;td&gt;13:00 - 14:00&lt;/td&gt;
- &lt;td&gt;Lunch break&lt;/td&gt;
- &lt;td&gt;-&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="invited"&gt;
- &lt;td&gt;14:00 - 14:30&lt;/td&gt;
- &lt;td&gt;Sander Beckers&lt;/td&gt;
- &lt;td&gt;In-person&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="invited"&gt;
- &lt;td&gt;14:30 - 15:00&lt;/td&gt;
- &lt;td&gt;Caroline Uhler&lt;/td&gt;
- &lt;td&gt;Virtual (live)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="contributed"&gt;
- &lt;td&gt;15:00 - 15:15&lt;/td&gt;
- &lt;td&gt;Fabio Massimo Zennaro - “Abstraction between Structural Causal Models: A Review of Definitions and Properties”&lt;/td&gt;
- &lt;td&gt;Virtual (live)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="break"&gt;
- &lt;td&gt;15:15 - 15:45&lt;/td&gt;
- &lt;td&gt;Coffee break&lt;/td&gt;
- &lt;td&gt;-&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="contributed"&gt;
- &lt;td&gt;15:45 - 16:00&lt;/td&gt;
- &lt;td&gt;Yiping Wang - “Causal Class Activation Maps for Weakly-Supervised Semantic Segmentation”&lt;/td&gt;
- &lt;td&gt;Virtual (live)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="invited"&gt;
- &lt;td&gt;16:00 - 16:30&lt;/td&gt;
- &lt;td&gt;Bernhard Schölkopf - “Desiderata for Causal Representations”&lt;/td&gt;
- &lt;td&gt;Virtual (live)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="invited"&gt;
- &lt;td&gt;16:30 - 17:00&lt;/td&gt;
- &lt;td&gt;Gemma Moran - “Identifiable Deep Generative Models via Sparse Decoding”&lt;/td&gt;
- &lt;td&gt;In-person&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;17:00 - 17:05&lt;/td&gt;
- &lt;td&gt;Concluding remarks &amp;amp Best paper awards&lt;/td&gt;
- &lt;td&gt;In-person&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="contributed"&gt;
- &lt;td&gt;17:05 - 18:00&lt;/td&gt;
- &lt;td&gt;Poster session 2&lt;/td&gt;
- &lt;td&gt;In-person &amp;amp &lt;a href="https://gather.town/app/fdnUf3ZhiXnz0Eub/UAIsland2022"&gt;Gather Town&lt;/a&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr class="break"&gt;
- &lt;td&gt;18:00 - end&lt;/td&gt;
- &lt;td&gt;Reception &amp;amp drinks with other workshops&lt;/td&gt;
- &lt;td&gt;-&lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;div style="width: 100%; font-size: smaller; text-align: center; margin-top: 18px;"&gt;
- &lt;em&gt;All times according to Central European Summer Time (CEST).&lt;/em&gt;
-&lt;/div&gt;
-&lt;p&gt;Unfortunately Alison Gopnik had to cancel her talk, we hope she can join us in some future occurrence of the workshop.&lt;/p&gt;</description></item><item><title>Slides and Recording</title><link>https://ucrl-iclr26.github.io/slides-recording/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ucrl-iclr26.github.io/slides-recording/</guid><description>&lt;h1 id="slides"&gt;Slides&lt;/h1&gt;
-&lt;p&gt;Slides from the speakers can be downloaded at the links below.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Hyvarinen.pdf"&gt;Aapo Hyvärinen, &amp;ldquo;Causal Discovery and Latent-Variable Models&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/lachapelle.pptx"&gt;Sebastien Lachapelle, &amp;ldquo;Partial Disentanglement via Mechanism Sparsity&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/reizinger.pdf"&gt;Patrik Reizinger, &amp;ldquo;Multivariate Causal Discovery with General Nonlinear Relationships&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Lippe.pdf"&gt;Phillip Lippe, &amp;ldquo;Learning Causal Variables from Temporal Sequences with Interventions&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Goyal.pdf"&gt;Anirudh Goyal, &amp;ldquo;From Specialists to Generalists&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/beckers.pdf"&gt;Sander Beckers, &amp;ldquo;Causal Abstractions and Causal Representation Learning&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Uhler.pdf"&gt;Caroline Uhler, &amp;ldquo;Causal Imputation&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/zennaro.pdf"&gt;Fabio Massimo Zennaro, &amp;ldquo;Abstraction between Structural Causal Models: A Review of Definitions and Properties&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/wang.pdf"&gt;Yiping Wang, &amp;ldquo;Causal Class Activation Map for Weakly-Supervised Semantic Segmentation&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bernhard Schölkopf, &amp;ldquo;Desiderata for Causal Representations&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/moran.pdf"&gt;Gemma Moran, &amp;ldquo;Identifiable Deep Generative Models via Sparse Decoding&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id="recording"&gt;Recording&lt;/h1&gt;
-&lt;p&gt;This is a recording of talks that took place in the second part of the workshop (after the lunch break); recordings of the first part of the workshop are unfortunately not available.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>https://ucrl-iclr26.github.io/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://ucrl-iclr26.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accepted Papers</title>
+      <link>https://ucrl-iclr26.github.io/accepted-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ucrl-iclr26.github.io/accepted-papers/</guid>
+      <description>&lt;h1 id=&#34;accepted-papers&#34;&gt;Accepted Papers&lt;/h1&gt;&#xA;&lt;h2 id=&#34;orals&#34;&gt;Orals&lt;/h2&gt;&#xA;&lt;p&gt;LATER!&lt;/p&gt;&#xA;&lt;h2 id=&#34;posters&#34;&gt;Posters&lt;/h2&gt;&#xA;&lt;p&gt;LATER!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Call for Papers</title>
+      <link>https://ucrl-iclr26.github.io/call-for-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ucrl-iclr26.github.io/call-for-papers/</guid>
+      <description>&lt;h1 id=&#34;call-for-papers&#34;&gt;Call for Papers&lt;/h1&gt;&#xA;&lt;p&gt;We welcome submissions on the following topics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Foundations of concept representations and learning in XAI, CRL and NeSy.&lt;/li&gt;&#xA;&lt;li&gt;Supervised and unsupervised techniques for learning concepts from&#xA;observational and interventional data, raw inputs, and pre-trained&#xA;embeddings.&lt;/li&gt;&#xA;&lt;li&gt;Techniques for learning concepts in non-standard settings, e.g., causal&#xA;abstraction.&lt;/li&gt;&#xA;&lt;li&gt;Design and evaluation of concept-based XAI techniques and self-explainable&#xA;concept-based models.&lt;/li&gt;&#xA;&lt;li&gt;Interactive human-machine concept acquisition and alignment.&lt;/li&gt;&#xA;&lt;li&gt;Applications of concept-based AI systems, including but not limited to,&#xA;reasoning, causality, formal verification, interactive learning, and&#xA;explainability.&lt;/li&gt;&#xA;&lt;li&gt;Metrics and evaluation techniques for assessing the quality of learned&#xA;concepts, with a focus on down-stream applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Submissions should present novel, unpublished work. Work that previously&#xA;appeared in non-archival venues (such as arXiv or other workshops without&#xA;proceedings) is allowed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Formatting Instructions</title>
+      <link>https://ucrl-iclr26.github.io/formatting-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ucrl-iclr26.github.io/formatting-instructions/</guid>
+      <description>&lt;h1 id=&#34;formatting-instructions&#34;&gt;Formatting Instructions&lt;/h1&gt;&#xA;&lt;h2 id=&#34;style--author-instructions&#34;&gt;Style &amp;amp; Author Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Submissions should be formatted using the &lt;a href=&#34;https://www.auai.org/uai2022/formatting/uai2022-template.zip&#34;&gt;UAI latex template and formatting instructions&lt;/a&gt;. Papers must be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.&lt;/p&gt;&#xA;&lt;h2 id=&#34;submission-link&#34;&gt;Submission Link&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://openreview.net/group?id=auai.org/UAI/2022/Workshop/CRL&#34;&gt;https://openreview.net/group?id=auai.org/UAI/2022/Workshop/CRL&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;camera-ready-revisions&#34;&gt;Camera-Ready Revisions&lt;/h2&gt;&#xA;&lt;p&gt;Camera-Ready revisions are now enabled in OpenReview. While the workshop has no official proceedings, we strongly encourage you to submit a revised &amp;ldquo;camera-ready&amp;rdquo; version taking reviewers&amp;rsquo; comments and suggestions into account. We suggest uploading a revised version prior to the workshop, and possibly another final version (incorporating additional feedback from the poster session and workshop) by the revision deadline of 12 August, one week after the workshop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Important Dates</title>
+      <link>https://ucrl-iclr26.github.io/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ucrl-iclr26.github.io/dates/</guid>
+      <description>&lt;h1 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Paper submission deadline:&lt;/strong&gt; &lt;strong&gt;January 30, 2026, 23:59 AoE&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Notification to authors:&lt;/strong&gt; March 1, 2026, 23:59 AoE&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Camera-ready version:&lt;/strong&gt; March 27, 2026, 23:59 AoE&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Invited Speakers</title>
+      <link>https://ucrl-iclr26.github.io/invited-speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ucrl-iclr26.github.io/invited-speakers/</guid>
+      <description>&lt;h1 id=&#34;invited-speakers&#34;&gt;Invited Speakers&lt;/h1&gt;&#xA;&lt;div class=&#34;list-of-people&#34;&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;td&gt;&lt;img src=&#34;https://ucrl-iclr26.github.io/bernhard.jpg&#34;&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;a href=&#34;https://is.mpg.de/~bs&#34;&gt;Bernhard Schölkopf&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;td&gt;&lt;img src=&#34;https://ucrl-iclr26.github.io/alison.jpg&#34;&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;a href=&#34;http://alisongopnik.com/&#34;&gt;Alison Gopnik&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;td&gt;&lt;img src=&#34;https://ucrl-iclr26.github.io/aapo.jpg&#34;&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;a href=&#34;https://www.cs.helsinki.fi/u/ahyvarin/&#34;&gt;Aapo Hyvärinen&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;td&gt;&lt;img src=&#34;https://ucrl-iclr26.github.io/caroline.jpg&#34;&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;a href=&#34;https://www.carolineuhler.com/&#34;&gt;Caroline Uhler&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;td&gt;&lt;img src=&#34;https://ucrl-iclr26.github.io/gemma.jpg&#34;&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;a href=&#34;https://www.gemma-moran.com/&#34;&gt;Gemma Moran&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;td&gt;&lt;img src=&#34;https://ucrl-iclr26.github.io/sander.jpg&#34;&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;a href=&#34;https://sanderbeckers.github.io/website/about/&#34;&gt;Sander Beckers&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;td&gt;&lt;img src=&#34;https://ucrl-iclr26.github.io/philip.jpg&#34;&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;a href=&#34;https://phlippe.github.io/&#34;&gt;Phillip Lippe&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;td&gt;&lt;img src=&#34;https://ucrl-iclr26.github.io/anirudh.jpg&#34;&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;a href=&#34;https://anirudh9119.github.io/&#34;&gt;Anirudh Goyal&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Organisers</title>
+      <link>https://ucrl-iclr26.github.io/organisers-reviewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ucrl-iclr26.github.io/organisers-reviewers/</guid>
+      <description>&lt;h1 id=&#34;organisers&#34;&gt;Organisers&lt;/h1&gt;&#xA;&lt;div class=&#34;list-of-people&#34;&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;img src=&#34;https://ucrl-iclr26.github.io/amit.jpg&#34;&gt;&#xA;        &lt;a href=&#34;https://research.ibm.com/people/amit-dhurandhar&#34;&gt;Amit Dhurandhar&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;img src=&#34;https://ucrl-iclr26.github.io/placeholder.jpg&#34;&gt;&#xA;        &lt;a href=&#34;https://amirhkarimi.com/&#34;&gt;Amir-Hossein Karimi&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;img src=&#34;https://ucrl-iclr26.github.io/placeholder.jpg&#34;&gt;&#xA;        &lt;a href=&#34;https://saramagliacane.github.io/&#34;&gt;Sara Magliacane&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;img src=&#34;https://ucrl-iclr26.github.io/stefano.jpg&#34;&gt;&#xA;        &lt;a href=&#34;https://stefanoteso.github.io/&#34;&gt;Stefano Teso&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;img src=&#34;https://ucrl-iclr26.github.io/placeholder.jpg&#34;&gt;&#xA;        &lt;a href=&#34;https://tsamoura.github.io/&#34;&gt;Efthymia Tsamoura&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;person&#34;&gt;&#xA;        &lt;img src=&#34;https://ucrl-iclr26.github.io/placeholder.jpg&#34;&gt;&#xA;        &lt;a href=&#34;https://zzeng.me/&#34;&gt;Zhe Zeng&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h1 id=&#34;reviewers&#34;&gt;Reviewers&lt;/h1&gt;&#xA;&lt;p&gt;Emanuele Marconato, University of Trento&lt;/p&gt;&#xA;&lt;p&gt;Samuele Bortolotti, University of Trento&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;For any questions or comments, please contact us at &lt;a href=&#34;mailto:ucrl.iclr2026@gmail.com&#34;&gt;ucrl.iclr2026@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;width: 100%; font-size: smaller; text-align: center; margin-top: 18px;&#34;&gt;&#xA;    &lt;em&gt;Thanks also to &lt;strong&gt;&lt;a href=&#34;https://samuelebortolotti.github.io/&#34;&gt;Samuele Bortolotti&lt;/a&gt;&lt;/strong&gt; for helping us set up the workshop website!&lt;/em&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Schedule and Format</title>
+      <link>https://ucrl-iclr26.github.io/schedule-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ucrl-iclr26.github.io/schedule-format/</guid>
+      <description>&lt;h1 id=&#34;workshop-schedule&#34;&gt;Workshop Schedule&lt;/h1&gt;&#xA;&lt;div style=&#34;width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;&#34;&gt;&#xA;    Legend:&#xA;    &lt;span class=&#34;contributed&#34;&gt;contributed&lt;/span&gt; · &#xA;    &lt;span class=&#34;invited&#34;&gt;invited&lt;/span&gt; · &#xA;    &lt;span class=&#34;break&#34;&gt;break&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&lt;table class=&#34;schedule&#34;&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;th style=&#34;width:25%&#34;&gt;Time&lt;/th&gt;&#xA;        &lt;th&gt;Program&lt;/th&gt;&#xA;        &lt;th&gt;Format&lt;/th&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;09:00 - 09:30&lt;/td&gt;&#xA;        &lt;td&gt;Introductory remarks&lt;/td&gt;&#xA;        &lt;td&gt;In-person&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;invited&#34;&gt;&#xA;        &lt;td&gt;09:30 - 10:00&lt;/td&gt;&#xA;        &lt;td&gt;Aapo Hyvärinen - &#34;Causal Discovery and Latent-Variable Models&#34;&lt;/td&gt;&#xA;        &lt;td&gt;Virtual (live)&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;break&#34;&gt;&#xA;        &lt;td&gt;10:00 - 10:30&lt;/td&gt;&#xA;        &lt;td&gt;Coffee break&lt;/td&gt;&#xA;        &lt;td&gt;-&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;contributed&#34;&gt;&#xA;        &lt;td&gt;10:30 - 10:45&lt;/td&gt;&#xA;        &lt;td&gt;Sebastien Lachapelle - “Partial Disentanglement via Mechanism Sparsity”&lt;/td&gt;&#xA;        &lt;td&gt;In-person&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;contributed&#34;&gt;&#xA;        &lt;td&gt;10:45 - 11:00&lt;/td&gt;&#xA;        &lt;td&gt;Patrik Reizinger - “Multivariable Causal Discovery with General Nonlinear Relationships”&lt;/td&gt;&#xA;        &lt;td&gt;In-person&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;invited&#34;&gt;&#xA;        &lt;td&gt;11:00 - 11:30&lt;/td&gt;&#xA;        &lt;td&gt;Phillip Lippe - &#34;Learning Causal Variables from Temporal Sequences with Interventions&#34;&lt;/td&gt;&#xA;        &lt;td&gt;In-person&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;invited&#34;&gt;&#xA;        &lt;td&gt;11:30 - 12:00&lt;/td&gt;&#xA;        &lt;td&gt;Anirudh Goyal&lt;/td&gt;&#xA;        &lt;td&gt;Virtual (live)&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;contributed&#34;&gt;&#xA;        &lt;td&gt;12:00 - 13:00&lt;/td&gt;&#xA;        &lt;td&gt;Poster session 1&lt;/td&gt;&#xA;        &lt;td&gt;In-person &amp;amp &lt;a href=&#34;https://gather.town/app/fdnUf3ZhiXnz0Eub/UAIsland2022&#34;&gt;Gather Town&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;break&#34;&gt;&#xA;        &lt;td&gt;13:00 - 14:00&lt;/td&gt;&#xA;        &lt;td&gt;Lunch break&lt;/td&gt;&#xA;        &lt;td&gt;-&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;invited&#34;&gt;&#xA;        &lt;td&gt;14:00 - 14:30&lt;/td&gt;&#xA;        &lt;td&gt;Sander Beckers&lt;/td&gt;&#xA;        &lt;td&gt;In-person&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;invited&#34;&gt;&#xA;        &lt;td&gt;14:30 - 15:00&lt;/td&gt;&#xA;        &lt;td&gt;Caroline Uhler&lt;/td&gt;&#xA;        &lt;td&gt;Virtual (live)&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;contributed&#34;&gt;&#xA;        &lt;td&gt;15:00 - 15:15&lt;/td&gt;&#xA;        &lt;td&gt;Fabio Massimo Zennaro - “Abstraction between Structural Causal Models: A Review of Definitions and Properties”&lt;/td&gt;&#xA;        &lt;td&gt;Virtual (live)&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;break&#34;&gt;&#xA;        &lt;td&gt;15:15 - 15:45&lt;/td&gt;&#xA;        &lt;td&gt;Coffee break&lt;/td&gt;&#xA;        &lt;td&gt;-&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;contributed&#34;&gt;&#xA;        &lt;td&gt;15:45 - 16:00&lt;/td&gt;&#xA;        &lt;td&gt;Yiping Wang - “Causal Class Activation Maps for Weakly-Supervised Semantic Segmentation”&lt;/td&gt;&#xA;        &lt;td&gt;Virtual (live)&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;invited&#34;&gt;&#xA;        &lt;td&gt;16:00 - 16:30&lt;/td&gt;&#xA;        &lt;td&gt;Bernhard Schölkopf - “Desiderata for Causal Representations”&lt;/td&gt;&#xA;        &lt;td&gt;Virtual (live)&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;invited&#34;&gt;&#xA;        &lt;td&gt;16:30 - 17:00&lt;/td&gt;&#xA;        &lt;td&gt;Gemma Moran - “Identifiable Deep Generative Models via Sparse Decoding”&lt;/td&gt;&#xA;        &lt;td&gt;In-person&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;17:00 - 17:05&lt;/td&gt;&#xA;        &lt;td&gt;Concluding remarks &amp;amp Best paper awards&lt;/td&gt;&#xA;        &lt;td&gt;In-person&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;contributed&#34;&gt;&#xA;        &lt;td&gt;17:05 - 18:00&lt;/td&gt;&#xA;        &lt;td&gt;Poster session 2&lt;/td&gt;&#xA;        &lt;td&gt;In-person &amp;amp &lt;a href=&#34;https://gather.town/app/fdnUf3ZhiXnz0Eub/UAIsland2022&#34;&gt;Gather Town&lt;/a&gt;&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr class=&#34;break&#34;&gt;&#xA;        &lt;td&gt;18:00 - end&lt;/td&gt;&#xA;        &lt;td&gt;Reception &amp;amp drinks with other workshops&lt;/td&gt;&#xA;        &lt;td&gt;-&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;&lt;/table&gt;&#xA;&lt;div style=&#34;width: 100%; font-size: smaller; text-align: center; margin-top: 18px;&#34;&gt;&#xA;    &lt;em&gt;All times according to Central European Summer Time (CEST).&lt;/em&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Unfortunately Alison Gopnik had to cancel her talk, we hope she can join us in some future occurrence of the workshop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slides and Recording</title>
+      <link>https://ucrl-iclr26.github.io/slides-recording/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ucrl-iclr26.github.io/slides-recording/</guid>
+      <description>&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;&#xA;&lt;p&gt;Slides from the speakers can be downloaded at the links below.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Hyvarinen.pdf&#34;&gt;Aapo Hyvärinen, &amp;ldquo;Causal Discovery and Latent-Variable Models&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/lachapelle.pptx&#34;&gt;Sebastien Lachapelle, &amp;ldquo;Partial Disentanglement via Mechanism Sparsity&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/reizinger.pdf&#34;&gt;Patrik Reizinger, &amp;ldquo;Multivariate Causal Discovery with General Nonlinear Relationships&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Lippe.pdf&#34;&gt;Phillip Lippe, &amp;ldquo;Learning Causal Variables from Temporal Sequences with Interventions&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Goyal.pdf&#34;&gt;Anirudh Goyal, &amp;ldquo;From Specialists to Generalists&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/beckers.pdf&#34;&gt;Sander Beckers, &amp;ldquo;Causal Abstractions and Causal Representation Learning&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Uhler.pdf&#34;&gt;Caroline Uhler, &amp;ldquo;Causal Imputation&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/zennaro.pdf&#34;&gt;Fabio Massimo Zennaro, &amp;ldquo;Abstraction between Structural Causal Models: A Review of Definitions and Properties&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/wang.pdf&#34;&gt;Yiping Wang, &amp;ldquo;Causal Class Activation Map for Weakly-Supervised Semantic Segmentation&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Bernhard Schölkopf, &amp;ldquo;Desiderata for Causal Representations&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/moran.pdf&#34;&gt;Gemma Moran, &amp;ldquo;Identifiable Deep Generative Models via Sparse Decoding&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;recording&#34;&gt;Recording&lt;/h1&gt;&#xA;&lt;p&gt;This is a recording of talks that took place in the second part of the workshop (after the lunch break); recordings of the first part of the workshop are unfortunately not available.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
