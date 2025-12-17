@@ -34,9 +34,36 @@ title: "Organisers"
 
 # Reviewers
 
-Emanuele Marconato, University of Trento
-
-Samuele Bortolotti, University of Trento
+* Christine Bang, University of Copenhagen
+* Samuele Bortolotti, University of Trento
+* Meihua Dang, Stanford
+* Jacopo Dapueto, University of Genova
+* Pedro Zuidberg Dos Martires, Örebro University
+* Fan Feng, UCSD
+* Hidde Fokkema, University of Amsterdam
+* Poorva Garg, UCLA
+* Francesco Giannini, Scuola Normale Superiore Pisa
+* Roel Hulsman, University of Amsterdam
+* Daniel Israel, UCLA
+* Phillip Lippe, Google
+* Anji Liu, National University of Singapore
+* Emanuele Marconato, University of Trento
+* Riccardo Massidda, University of Pisa
+* Andrea Passerini, University of Trento
+* Eleonora Poeta, Politecnico Torino
+* Nadja Rutsch, Vrije Universiteit Amsterdam
+* Matyas Schubert, University of Amsterdam
+* Gesina Schwalbe, University of Lübeck
+* Luciano Serafini, Fondazione Bruno Kessler
+* Zilei Shao, UCLA
+* Wolfgang Stammer, Max Planck Institute for Informatics
+* Tim van Erven, University of Amsterdam
+* Antonio Vergari, University of Edinburgh
+* Benjie Wang, UCLA
+* Yidou Weng, UCLA
+* Danru Xu, University of Amsterdam
+* Chi Zhang, Toyota Research Institute
+* Honghua Zhang, UCLA
 
 
 ## Contact
