@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://crl-uai-2022.github.io/"
+baseurl = "https://ucrl-iclr26.github.io/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
@@ -7,12 +7,12 @@ disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
-  supertitle = "First Workshop on"
-  title = "Causal Representation Learning"
-  subtitle = "August 5 @ UAI 2022"
-  author = "Julius von Kügelgen, Luigi Gresele, Francesco Locatello, Sara Magliacane, Nan Rosemary Ke, Yixin Wang, Yoshua Bengio, Timothy Gebhard"
-  description = "First Workshop on Causal Representation Learning (UAI 2022)"
-  keywords = ["workshop", "causal representation learning"]
+  supertitle = "Workshop on"
+  title = "Unifying Concept Representation Learning"
+  subtitle = "April @ ICLR 2026"
+  author = "Amit Dhurandhar, Amir-Hossein Karimi, Sara Magliacane, Stefano Teso, Efthymia Tsamoura, Zhe Zheng"
+  description = "Workshop on Unifying Concept Representation Learning (ICLR 2026)"
+  keywords = ["workshop", "concepts", "explainable AI", "neuro-symbolic AI", "causal representation learning"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
