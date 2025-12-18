@@ -9,7 +9,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "Workshop on"
   title = "Unifying Concept Representation Learning"
-  subtitle = "April 26-27 @ ICLR 2026"
+  subtitle = "April 26 or 27 @ ICLR 2026 in Rio de Janeiro"
   author = "Amit Dhurandhar, Amir-Hossein Karimi, Sara Magliacane, Stefano Teso, Efthymia Tsamoura, Zhe Zheng"
   description = "Workshop on Unifying Concept Representation Learning (ICLR 2026)"
   keywords = ["workshop", "concepts", "explainable AI", "neuro-symbolic AI", "causal representation learning"]
