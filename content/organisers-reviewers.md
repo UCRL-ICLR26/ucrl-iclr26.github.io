@@ -10,7 +10,7 @@ title: "Organisers"
         <a href="https://research.ibm.com/people/amit-dhurandhar">Amit Dhurandhar</a>
     </div>
     <div class="person">
-        <img src="/placeholder.jpg">
+        <img src="/amir-hossein.jpg">
         <a href="https://amirhkarimi.com/">Amir-Hossein Karimi</a>
     </div>
     <div class="person">
@@ -22,11 +22,11 @@ title: "Organisers"
         <a href="https://stefanoteso.github.io/">Stefano Teso</a>
     </div>
     <div class="person">
-        <img src="/placeholder.jpg">
+        <img src="/efi.jpg">
         <a href="https://tsamoura.github.io/">Efthymia Tsamoura</a>
     </div>
     <div class="person">
-        <img src="/placeholder.jpg">
+        <img src="/zhe.jpg">
         <a href="https://zzeng.me/">Zhe Zeng</a>
     </div>
 </div>
