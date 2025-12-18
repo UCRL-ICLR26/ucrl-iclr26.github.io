@@ -33,7 +33,9 @@ unsure, please check yourself with the corresponding venue.
 
 ## Format
 
-Submissions should be **double-blind** and formatted using the ICML latex template and formatting instructions. 
+Submissions should be **double-blind** and formatted using the [ICLR latex template and formatting
+instructions](https://github.com/ICLR/Master-Template/raw/master/iclr2026.zip).
+
 Papers should be **up to 6 pages** in length, including all main results, figures, and tables. 
 Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
 
