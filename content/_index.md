@@ -59,3 +59,6 @@ robust, semantically meaningful concepts.
 * **Workshop Date:** April, 2026
 
 Contact us at <ucrl.iclr2026@gmail.com>
+
+## Submission link
+<https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL>
