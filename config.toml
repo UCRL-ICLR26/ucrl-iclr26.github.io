@@ -9,7 +9,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "Workshop on"
   title = "Unifying Concept Representation Learning"
-  subtitle = "April @ ICLR 2026"
+  subtitle = "April 26-27 @ ICLR 2026"
   author = "Amit Dhurandhar, Amir-Hossein Karimi, Sara Magliacane, Stefano Teso, Efthymia Tsamoura, Zhe Zheng"
   description = "Workshop on Unifying Concept Representation Learning (ICLR 2026)"
   keywords = ["workshop", "concepts", "explainable AI", "neuro-symbolic AI", "causal representation learning"]
@@ -33,7 +33,7 @@ disableKinds = ["taxonomyTerm"]
     url  = "/formatting-instructions"
     weight = 3
 [[menu.main]]
-    name = "Organisers and Reviewers"
+    name = "Organisers"
     url  = "/organisers-reviewers"
     weight = 4
 [[menu.main]]
@@ -48,7 +48,3 @@ disableKinds = ["taxonomyTerm"]
     name = "Invited Speakers"
     url  = "/invited-speakers"
     weight = 7
-[[menu.main]]
-    name = "Slides and Recording"
-    url  = "/slides-recording"
-    weight = 8
