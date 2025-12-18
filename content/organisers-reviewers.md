@@ -14,7 +14,7 @@ title: "Organisers"
         <a href="https://amirhkarimi.com/">Amir-Hossein Karimi</a>
     </div>
     <div class="person">
-        <img src="/placeholder.jpg">
+        <img src="/sara.jpg">
         <a href="https://saramagliacane.github.io/">Sara Magliacane</a>
     </div>
     <div class="person">
