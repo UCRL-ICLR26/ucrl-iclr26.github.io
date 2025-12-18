@@ -30,5 +30,12 @@ submission policies at other archival venues (e.g., submitting work that is
 currently under review at another conference such as NeurIPS is permitted); if
 unsure, please check yourself with the corresponding venue.
 
+
+## Format
+
+Submissions should be **double-blind** and formatted using the ICML latex template and formatting instructions. 
+Papers should be **up to 6 pages** in length, including all main results, figures, and tables. 
+Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
+
 ## Submission Link
 <https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL>
