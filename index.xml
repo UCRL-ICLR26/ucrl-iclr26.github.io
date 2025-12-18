@@ -22,13 +22,6 @@
       <description>&lt;h1 id=&#34;call-for-papers&#34;&gt;Call for Papers&lt;/h1&gt;&#xA;&lt;p&gt;We welcome submissions on the following topics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Foundations of concept representations and learning in XAI, CRL and NeSy.&lt;/li&gt;&#xA;&lt;li&gt;Supervised and unsupervised techniques for learning concepts from&#xA;observational and interventional data, raw inputs, and pre-trained&#xA;embeddings.&lt;/li&gt;&#xA;&lt;li&gt;Techniques for learning concepts in non-standard settings, e.g., causal&#xA;abstraction.&lt;/li&gt;&#xA;&lt;li&gt;Design and evaluation of concept-based XAI techniques and self-explainable&#xA;concept-based models.&lt;/li&gt;&#xA;&lt;li&gt;Interactive human-machine concept acquisition and alignment.&lt;/li&gt;&#xA;&lt;li&gt;Applications of concept-based AI systems, including but not limited to,&#xA;reasoning, causality, formal verification, interactive learning, and&#xA;explainability.&lt;/li&gt;&#xA;&lt;li&gt;Metrics and evaluation techniques for assessing the quality of learned&#xA;concepts, with a focus on down-stream applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Submissions should present novel, unpublished work. Work that previously&#xA;appeared in non-archival venues (such as arXiv or other workshops without&#xA;proceedings) is allowed.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Formatting Instructions</title>
-      <link>https://ucrl-iclr26.github.io/formatting-instructions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ucrl-iclr26.github.io/formatting-instructions/</guid>
-      <description>&lt;h1 id=&#34;formatting-instructions&#34;&gt;Formatting Instructions&lt;/h1&gt;&#xA;&lt;h2 id=&#34;style--author-instructions&#34;&gt;Style &amp;amp; Author Instructions&lt;/h2&gt;&#xA;&lt;p&gt;Submissions should be formatted using the &lt;a href=&#34;https://github.com/ICLR/Master-Template/raw/master/iclr2026.zip&#34;&gt;ICLR latex template and formatting&#xA;instructions&lt;/a&gt;.&#xA;Papers must be submitted as a PDF file and should be 4-6 pages in length,&#xA;including all main results, figures, and tables. Appendices containing&#xA;additional details are allowed, but reviewers are not expected to take this&#xA;into account.&lt;/p&gt;&#xA;&lt;h2 id=&#34;submission-link&#34;&gt;Submission Link&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL&#34;&gt;https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Important Dates</title>
       <link>https://ucrl-iclr26.github.io/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
