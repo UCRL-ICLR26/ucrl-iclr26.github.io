@@ -29,3 +29,6 @@ The UCRL workshop is non-archival, and should thus generally not violate dual
 submission policies at other archival venues (e.g., submitting work that is
 currently under review at another conference such as NeurIPS is permitted); if
 unsure, please check yourself with the corresponding venue.
+
+## Submission Link
+<https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL>
