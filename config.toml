@@ -37,14 +37,6 @@ disableKinds = ["taxonomyTerm"]
     url  = "/organisers-reviewers"
     weight = 4
 [[menu.main]]
-    name = "Accepted Papers"
-    url  = "/accepted-papers"
-    weight = 5
-[[menu.main]]
-    name = "Schedule and Format"
-    url  = "/schedule-format"
-    weight = 6
-[[menu.main]]
     name = "Invited Speakers"
     url  = "/invited-speakers"
-    weight = 7
+    weight = 5
