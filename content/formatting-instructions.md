@@ -16,8 +16,3 @@ into account.
 ## Submission Link
 
 [https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL](https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL)
-
-
-## Camera-Ready Revisions
-
-WILL BE UPDATED LATER.
