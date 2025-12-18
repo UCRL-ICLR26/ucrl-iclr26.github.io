@@ -27,6 +27,6 @@ title: "Invited Speakers"
     </div>
     <div class="person">
         <td><img src="/placeholder.jpg"></td>
-        <td><a href="https://is.mpg.de/~bs">Benrhard Schölkopf</a></td>
+        <td><a href="https://is.mpg.de/~bs">Bernhard Schölkopf</a></td>
     </div>
 </div>
