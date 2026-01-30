@@ -53,7 +53,7 @@ robust, semantically meaningful concepts.
 
 ## Important Dates
 
-* **Paper submission deadline:** **January 30, 2026, 23:59 AoE**
+* **Paper submission deadline:** **~~January 30~~ February 3, 2026, 23:59 AoE**
 * **Notification to authors:** March 1, 2026, 23:59 AoE
 * **Camera-ready version:** March 27, 2026, 23:59 AoE
 * **Workshop Date:** April, 2026
