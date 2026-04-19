@@ -66,7 +66,7 @@ title: "Schedule"
     <tr class="invited">
         <td>13:30 - 14:00</td>
         <td>Invited Talk #4</td>
-        <td>-</td>
+        <td>TBD</td>
     </tr>
     <tr class="contributed">
         <td>14:00 - 14:15</td>
