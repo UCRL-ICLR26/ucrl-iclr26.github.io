@@ -24,10 +24,10 @@ disableKinds = ["taxonomyTerm"]
     name = "Call for Papers"
     url  = "/call-for-papers"
     weight = 1
-[[menu.main]]
-    name = "Dates"
-    url  = "/dates"
-    weight = 2
+#[[menu.main]]
+#    name = "Dates"
+#    url  = "/dates"
+#    weight = 2
 [[menu.main]]
     name = "Organisers"
     url  = "/organisers-reviewers"
@@ -40,3 +40,8 @@ disableKinds = ["taxonomyTerm"]
     name = "Accepted Papers"
     url = "https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL"
     weight = 5
+[[menu.main]]
+    name = "ICLR website"
+    url = "https://iclr.cc/virtual/2026/workshop/10000775"
+    weight = 6
+
