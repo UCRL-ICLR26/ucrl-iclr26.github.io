@@ -39,5 +39,14 @@ instructions](https://github.com/ICLR/Master-Template/raw/master/iclr2026.zip).
 Papers should be **up to 6 pages** in length, including all main results, figures, and tables. 
 Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
 
+## Important Dates
+
+* **Paper submission deadline:** **~~January 30~~ February 3, 2026, 23:59 AoE**
+* **Notification to authors:** March 1, 2026, 23:59 AoE
+* **Camera-ready version:** March 27, 2026, 23:59 AoE
+* **Workshop Date:** April 26, 2026
+
+Contact us at <ucrl.iclr2026@gmail.com>
+
 ## Submission Link
 <https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL>
