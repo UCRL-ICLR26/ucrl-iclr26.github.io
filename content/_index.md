@@ -5,8 +5,8 @@ title: "Home"
 # Welcome!
 
 The **Workshop on Unifying Concept Representation Learning (UCRL 2026)** will
-be co-located with [**ICLR 2026**](https://iclr.cc/Conferences/2026), in Rio de
-Janeiro, held on **April 23-27, 2026.**
+be on **April 26, 2026** in Room 209, co-located with [**ICLR 2026**](https://iclr.cc/Conferences/2026), in Rio de
+Janeiro.
 
 
 ## About the workshop
