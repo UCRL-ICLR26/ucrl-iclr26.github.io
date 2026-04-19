@@ -51,7 +51,7 @@ title: "Schedule"
     <tr class="contributed">
         <td>11:00 - 12:00</td>
         <td>Poster session</td>
-        <td>-</td>
+        <td>In-person</td>
     </tr>
     <tr class="break">
         <td>12:00 - 13:00</td>
@@ -96,7 +96,7 @@ title: "Schedule"
     <tr class="contributed">
         <td>15:45 - 16:00</td>
         <td>Contributed talk #5</td>
-        <td>In-person</td>
+        <td>TBD</td>
     </tr>
     <tr class="contributed">
         <td>16:00 - 17:00</td>
