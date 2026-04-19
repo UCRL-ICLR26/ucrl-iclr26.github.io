@@ -1,5 +1,5 @@
 ---
-title: "Schedule and Format"
+title: "Schedule"
 ---
 
 
