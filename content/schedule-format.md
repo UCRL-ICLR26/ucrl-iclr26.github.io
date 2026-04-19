@@ -53,7 +53,7 @@ title: "Schedule"
         <td>Poster session</td>
         <td>-</td>
     </tr>
-    <tr class="contributed">
+    <tr class="break">
         <td>12:00 - 13:00</td>
         <td>Lunch break</td>
         <td>-</td>
