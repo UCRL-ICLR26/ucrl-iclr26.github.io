@@ -32,6 +32,43 @@ title: "Organisers"
 </div>
 
 
+## Reviewers
+
+- Adrián Javaloy, U Edinburgh
+- Adèle H. Ribeiro, U Münster
+- Alex Markham, U Copenhagen
+- Andrea Passerini, U Trento
+- Biwei Huang, UCSD
+- Danru Xu, U Amsterdam
+- David Jensen, UMass Amherst
+- Eleonora Poeta, Polytechnic Institute of Turin
+- Emanuele Marconato, U Trento
+- Emile van Krieken, U Amsterdam
+- Fabio Massimo Zennaro, U Bergen
+- Fan Feng, UCSD
+- Gesina Schwalbe, U Lübeck
+- Hidde Fokkema, Independent
+- Jacopo Dapueto, U Genoa
+- Jacopo Urbani, U Amsterdam
+- Jiani Huang, UPenn
+- Jilles Vreeken, CISPA Helmholtz Center for Information Security
+- Luigi Gresele, U Copenhagen
+- Matej Zečević, TU Darmstadt
+- Mátyás Schubert, U Amsterdam
+- Pedro Zuidberg Dos Martires, Örebro U
+- Ricardo Silva, UCL
+- Riccardo Massidda, U Pisa
+- Samuele Bortolotti, U Trento
+- Stelios Triantafyllou, Booking.com
+- Stratis Tsirtsis, Hasso Plattner Institute
+- Thomas Schiex, INRAE
+- Victor Gutierrez Basulto, Cardiff U
+- Wolfgang Stammer, MPI
+- Yi Han, U Amsterdam
+- Yoshihide Sawada, Aichi Sangyo U
+- Zilei Shao, UCLA
+
+
 ## Contact
 
 For any questions or comments, please contact us at <ucrl.iclr2026@gmail.com>
