@@ -14,8 +14,8 @@ title: "Invited Speakers"
         <td><a href="https://biweihuang.com/">Biwei Hwang</a></td>
     </div>
     <div class="person">
-        <td><img src="/mateja.jpg"></td>
-        <td><a href="https://www.cl.cam.ac.uk/~mj201/">Mateja Jamnik</a></td>
+        <td><img src="/mateo.jpg"></td>
+        <td><a href="https://hairyballtheorem.com/">Mateo Espinosa Zarlenga</a></td>
     </div>
     <div class="person">
         <td><img src="/subbarao.jpg"></td>
