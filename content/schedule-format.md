@@ -70,8 +70,8 @@ title: "Schedule"
     </tr>
     <tr class="contributed">
         <td>14:00 - 14:15</td>
-        <td>Contributed Talk #3</td>
-        <td>-</td>
+        <td>Automated Concept Discovery for LLM-as-a-Judge Preference Analysis</td>
+        <td>James Wedgwood</td>
     </tr>
     <tr class="invited">
         <td>14:15 - 14:45</td>
@@ -90,13 +90,13 @@ title: "Schedule"
     </tr>
     <tr class="contributed">
         <td>15:30 - 15:45</td>
-        <td>Contributed talk #4</td>
-        <td>TBD</td>
+        <td>Dynamics Reveals Structure: Challenging the Linear Propagation Assumption</td>
+        <td>Hoyeon Chang</td>
     </tr>
     <tr class="contributed">
         <td>15:45 - 16:00</td>
-        <td>Contributed talk #5</td>
-        <td>TBD</td>
+        <td>Automatic Interpretation of Visual Concepts</td>
+        <td>Felix Meissen</td>
     </tr>
     <tr class="contributed">
         <td>16:00 - 17:00</td>
@@ -113,5 +113,5 @@ title: "Schedule"
 ## Poster Session
 
 All accepted papers will be presented as a poster at the workshop. All posters
-should be put up in the morning and will remain up during the whole day (i.e.,
+can be put up in the morning and can remain up during the whole day (i.e.,
 all posters are presented during both poster sessions).
