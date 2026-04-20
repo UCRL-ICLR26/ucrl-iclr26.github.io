@@ -36,10 +36,10 @@ disableKinds = ["taxonomyTerm"]
     name = "Invited Speakers"
     url  = "/invited-speakers"
     weight = 4
-#[[menu.main]]
-#    name = "Schedule"
-#    url  = "/schedule-format"
-#    weight = 5
+[[menu.main]]
+    name = "Schedule"
+    url  = "/schedule-format"
+    weight = 5
 [[menu.main]]
     name = "Accepted Papers"
     url = "https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL"
