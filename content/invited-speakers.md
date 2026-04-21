@@ -7,7 +7,7 @@ title: "Invited Speakers"
 <div class="list-of-people">
     <div class="person">
         <td><img src="/francesco.jpg"></td>
-        <td><a href="https://is.mpg.de/~bs](https://www.francescolocatello.com/">Francesco Locatello</a></td>
+        <td><a href="https://www.francescolocatello.com/">Francesco Locatello</a></td>
     </div>
     <div class="person">
         <td><img src="/qiaochu.jpg"></td>
