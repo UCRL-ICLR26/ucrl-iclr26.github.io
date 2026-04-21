@@ -23,7 +23,7 @@ title: "Invited Speakers"
     </div>
     <div class="person">
         <td><img src="/subbarao.jpg"></td>
-        <td><a href="https://rakaposhi.eas.asu.edu/">Subbarai Kambhampati</a></td>
+        <td><a href="https://rakaposhi.eas.asu.edu/">Subbarao Kambhampati</a></td>
     </div>
     <div class="person">
         <td><img src="/been.jpg"></td>
