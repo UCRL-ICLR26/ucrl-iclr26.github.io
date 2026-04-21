@@ -6,6 +6,10 @@ title: "Invited Speakers"
 
 <div class="list-of-people">
     <div class="person">
+        <td><img src="/francesco.jpg"></td>
+        <td><a href="https://is.mpg.de/~bs](https://www.francescolocatello.com/">Francesco Locatello</a></td>
+    </div>
+    <div class="person">
         <td><img src="/qiaochu.jpg"></td>
         <td><a href="https://thelyad.github.io/">Qiaochu Chen</a></td>
     </div>
@@ -25,8 +29,5 @@ title: "Invited Speakers"
         <td><img src="/been.jpg"></td>
         <td><a href="https://beenkim.github.io/">Been Kim</a></td>
     </div>
-    <div class="person">
-        <td><img src="/bernhard.jpg"></td>
-        <td><a href="https://is.mpg.de/~bs">Bernhard Schölkopf</a></td>
-    </div>
+
 </div>
