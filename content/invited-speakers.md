@@ -15,7 +15,7 @@ title: "Invited Speakers"
     </div>
     <div class="person">
         <td><img src="/biwei.jpg"></td>
-        <td><a href="https://biweihuang.com/">Biwei Hwang</a></td>
+        <td><a href="https://biweihuang.com/">Biwei Huang</a></td>
     </div>
     <div class="person">
         <td><img src="/mateo.jpg"></td>
