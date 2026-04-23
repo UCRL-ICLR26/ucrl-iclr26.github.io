@@ -65,7 +65,7 @@ title: "Schedule"
     </tr>
     <tr class="invited">
         <td>13:30 - 14:00</td>
-        <td>Invited Talk #4</td>
+        <td>Invited Talk: In Defense of Concept Leakage </td>
         <td>Mateo Espinosa Zarlenga</td>
     </tr>
     <tr class="contributed">
