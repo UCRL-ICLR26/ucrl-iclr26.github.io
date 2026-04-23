@@ -25,7 +25,7 @@ title: "Schedule"
     </tr>
     <tr class="invited">
         <td>09:10 - 9:40</td>
-        <td>Invited Talk #1</td>
+        <td>Invited Talk: Causal effects in the eyes of the beholder</td>
         <td>Francesco Locatello</td>
     </tr>
     <tr class="invited">
