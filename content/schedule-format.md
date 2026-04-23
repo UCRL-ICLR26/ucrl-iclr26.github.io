@@ -30,7 +30,7 @@ title: "Schedule"
     </tr>
     <tr class="invited">
         <td>9:40 - 10:10</td>
-        <td>Invited Talk #2</td>
+        <td>Invited Talk: Learning Programming Abstractions for Formal Verification</td>
         <td>Qiaochu Chen</td>
     </tr>
     <tr class="break">
