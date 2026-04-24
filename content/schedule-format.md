@@ -80,7 +80,7 @@ title: "Schedule"
     </tr>
     <tr class="invited">
         <td>14:45 - 15:15</td>
-        <td>Invited Talk #6</td>
+        <td>Invited Talk: Expanding our concepts with help of agents</td>
         <td>Been Kim</td>
     </tr>
     <tr class="break">
