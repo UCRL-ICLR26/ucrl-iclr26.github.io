@@ -49,7 +49,7 @@ title: "Organisers"
 - Gesina Schwalbe, U Lübeck
 - Hidde Fokkema, Independent
 - Jacopo Dapueto, U Genoa
-- Jacopo Urbani, U Amsterdam
+- Jacopo Urbani, VU Amsterdam
 - Jiani Huang, UPenn
 - Jilles Vreeken, CISPA Helmholtz Center for Information Security
 - Luigi Gresele, U Copenhagen
